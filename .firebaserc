@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "login-ng-8ec5e": {
+      "hosting": {
+        "app": [
+          "login-ng-8ec5e"
+        ]
+      }
+    }
+  }
+}

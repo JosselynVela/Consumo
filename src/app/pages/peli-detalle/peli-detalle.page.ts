@@ -8,6 +8,7 @@ import { ActivatedRoute } from '@angular/router';
   styleUrls: ['./peli-detalle.page.scss'],
 })
 export class PeliDetallePage implements OnInit {
+  content: any = null;
 
   constructor(private peliService: PeliService, private activatedRoute: ActivatedRoute) { }
 
