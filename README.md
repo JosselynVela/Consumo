@@ -9,17 +9,17 @@
 
 
 <h3>Apower Mirror:</h3>
-<img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/imagen2.png"/>
+<img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen2.png"/>
 <h4>Mostrar el teléfono en la pantalla del pc</h4>
 <h3>Base de datos:</h3>
 <h4>Firebase</h4>
-<img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/imagen3.png"/>
+<img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen3.png"/>
 <h3>Para datos de la localización:</h3>
 <h4>Google Clound Plataform</h4>
-<img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/imagem4.png"/>
+<img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen4.png"/>
 <h3>Iniciar un proyecto en el Firebase</h3> 
 
-<img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/imagen5.png"/>
+<img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen5.png"/>
 
 <h4>Habilitar la autenticación por correo</h4>
 <img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/imagen6.png"/>
