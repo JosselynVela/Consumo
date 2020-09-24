@@ -60,10 +60,11 @@ Contiene las actividades que se va a realizar en el aplicativo por usuario.</p>
   <p>GeofireProvider para guardas datos de la latitud y longitud</p>
   <img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen20.png"/>
 <p>Base datos se muestra los datos de los usuarios registrados</p>
+  <p>Con sus respectivos datos y un token que será el que provee el de autenticación por correo</p>
     <img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen21.png"/>
-<p>Con sus respectivos datos y un token que será el que provee el de autenticación por correo</p>
   <p>finalmente tenemos el active_location que muestra las coordenadas en las que esta el usuario.</p>
   <img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen22.png"/>
+
 <video src="https://www.youtube.com/watch?v=OcpDE0ZAH4o&ab_channel=JoseGonzalo" width=320  height=240 controls poster="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen4.png">
 </video>
 
