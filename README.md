@@ -13,14 +13,14 @@
 <h3>Base de datos:</h3>
 <h4>Firebase</h4>
 
-<h3></h3>Para datos de la localización:
-<h4></h4>Google Clound Plataform
+<h3>Para datos de la localización:</h3>
+<h4>Google Clound Plataform</h4>
 
-<h3></h3>Iniciar un proyecto en el Firebase 
+<h3>Iniciar un proyecto en el Firebase</h3> 
 
 
 
-<h4></h4>Habilitar la autenticación por correo
+<h4>Habilitar la autenticación por correo</h4>
 
 <p>Luego habilitar la base de datos en tiempo real:
 En el proyecto usare un plugin llamado:
@@ -32,17 +32,17 @@ Contiene las actividades que se va a realizar en el aplicativo por usuario.</p>
 
 <p>Detalle del mapsActivity:</p>
 
-Variables para mostrar el mapa en la itnerfaz:
+<p>Variables para mostrar el mapa en la itnerfaz:</p>
 
 
-Método para mostrar el mapa en la pantalla y sus funcionalidades
+<p>Método para mostrar el mapa en la pantalla y sus funcionalidades</p>
 
-Variables para obtener datos de cada entidad de usuario 
+<p>Variables para obtener datos de cada entidad de usuario</p>
 
-Estas variables se usarán a lo largo del código.
-Variables para ir localización:
+<h3>Estas variables se usarán a lo largo del código.<h3>
+<p>Variables para ir localización:</p>
 
-Métodos en los que se usara
+<p>Métodos en los que se usara</p>
 
 
 Bandera para mostrar si tiene permiso para usar la localización y si está habilitada el GPS
