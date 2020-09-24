@@ -59,16 +59,16 @@ Contiene las actividades que se va a realizar en el aplicativo por usuario.</p>
 
 <p>Finalmente, el provider que es el que contiene los servicios que se ira usando </p>
 
-<p>Adminprovider es para hacer referencia al nodo de la base de datos
-Authprovider métodos para el login inicio de sesión cierre de sesión
-Confirmar si existe el login
-GeofireProvider para guardas datos de la latitud y longitud
-Base datos se muestra los datos de los usuarios registrados
-Con sus respectivos datos y un token que será el que provee el de autenticación por correo</p>
+<p>Adminprovider es para hacer referencia al nodo de la base de datos</p>
+<p>Authprovider métodos para el login inicio de sesión cierre de sesión</p>
+<p>Confirmar si existe el login</p>
+<p>GeofireProvider para guardas datos de la latitud y longitud</p>
+<p>Base datos se muestra los datos de los usuarios registrados</p>
+<p>Con sus respectivos datos y un token que será el que provee el de autenticación por correo</p>
 
 
 <p>finalmente tenemos el active_location que muestra las coordenadas en las que esta el usuario.</p>
+<img src="https://www.youtube.com/watch?v=OcpDE0ZAH4o&ab_channel=JoseGonzalo"/>
 
-https://www.youtube.com/watch?v=OcpDE0ZAH4o&ab_channel=JoseGonzalo
 
 
