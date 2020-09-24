@@ -63,6 +63,6 @@ Contiene las actividades que se va a realizar en el aplicativo por usuario.</p>
   <img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen22.png"/>
 
 <h2>VIDEO</h2>
-<h3>https://www.youtube.com/watch?v=OcpDE0ZAH4o&ab_channel=JoseGonzalo<h3>
+<h3>https://www.youtube.com/watch?v=FKVSKfm6sZI&ab_channel=JoseGonzalo<h3>
 
 
