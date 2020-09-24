@@ -18,9 +18,7 @@
 <img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen4.png"/>
   <h4>Desarrollo del proyecto</h4>
 <h3>Iniciar un proyecto en el Firebase</h3> 
-
 <img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen5.png"/>
-
 <h4>Habilitar la autenticación por correo</h4>
 <img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen6.png"/>
 <p>Luego habilitar la base de datos en tiempo real:</p>
@@ -28,7 +26,6 @@
 <p>En el proyecto usare un plugin llamado:
 Android Drawable Importer para importar imágenes o iconos</p>
 <img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen7.png"/>
-
 <p>Estructura del proyecto en Android:
 Activites:
 Contiene las actividades que se va a realizar en el aplicativo por usuario.</p>
@@ -51,6 +48,7 @@ Contiene las actividades que se va a realizar en el aplicativo por usuario.</p>
 <img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen15.png"/>
 <p>Mostrar el icono</p>
 <p>variable</p>
+  
 <p>Include usado para mostrar barra superior de cerrar sesión</p>
 <img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen16.png
 <p>Models que contiene las propiedades y métodos de cada usuario.</p>
