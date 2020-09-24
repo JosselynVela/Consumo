@@ -51,22 +51,20 @@ Contiene las actividades que se va a realizar en el aplicativo por usuario.</p>
 <img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen15.png"/>
 <p>Mostrar el icono</p>
 <p>variable</p>
-<img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen16.png
-
-
 <p>Include usado para mostrar barra superior de cerrar sesión</p>
+<img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen16.png
 <img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen17.png"/>
 <p>Models que contiene las propiedades y métodos de cada usuario.</p>
 <img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen18.png"/>
 <p>Finalmente, el provider que es el que contiene los servicios que se ira usando </p>
 <img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen19.png"/>
-<p>Adminprovider es para hacer referencia al nodo de la base de datos
+<p>Adminprovider es para hacer referencia al nodo de la base de datos</p>
   <img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen20.png"/>
-Authprovider métodos para el login inicio de sesión cierre de sesión
-Confirmar si existe el login
-GeofireProvider para guardas datos de la latitud y longitud
-Base datos se muestra los datos de los usuarios registrados
-Con sus respectivos datos y un token que será el que provee el de autenticación por correo</p>
+<p>Authprovider métodos para el login inicio de sesión cierre de sesión</p>
+<p>Confirmar si existe el login</p>
+<p>GeofireProvider para guardas datos de la latitud y longitud</p>
+<p>Base datos se muestra los datos de los usuarios registrados</p>
+<p>Con sus respectivos datos y un token que será el que provee el de autenticación por correo</p>
 
 
 <p>finalmente tenemos el active_location que muestra las coordenadas en las que esta el usuario.</p>
