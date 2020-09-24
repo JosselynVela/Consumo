@@ -50,21 +50,21 @@ Contiene las actividades que se va a realizar en el aplicativo por usuario.</p>
 <p>variable</p>
   
 <p>Include usado para mostrar barra superior de cerrar sesión</p>
-<img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen16.png
+<img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen17.png
 <p>Models que contiene las propiedades y métodos de cada usuario.</p>
-<img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen17.png"/>
-<p>Finalmente, el provider que es el que contiene los servicios que se ira usando </p>
 <img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen18.png"/>
+<p>Finalmente, el provider que es el que contiene los servicios que se ira usando </p>
+<img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen19.png"/>
 <p>Adminprovider es para hacer referencia al nodo de la base de datos</p>
-  <img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen19.png"/>
-<p>Authprovider métodos para el login inicio de sesión cierre de sesión</p>
   <img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen20.png"/>
-<p>Confirmar si existe el login</p>
+<p>Authprovider métodos para el login inicio de sesión cierre de sesión</p>
   <img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen21.png"/>
-<p>GeofireProvider para guardas datos de la latitud y longitud</p>
+<p>Confirmar si existe el login</p>
   <img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen22.png"/>
-<p>Base datos se muestra los datos de los usuarios registrados</p>
+<p>GeofireProvider para guardas datos de la latitud y longitud</p>
   <img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen23.png"/>
+<p>Base datos se muestra los datos de los usuarios registrados</p>
+  <img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen24.png"/>
 <p>Con sus respectivos datos y un token que será el que provee el de autenticación por correo</p>
 
 
