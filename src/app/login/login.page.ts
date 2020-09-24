@@ -10,12 +10,13 @@ import { PeliService } from '../services/peli.service';
 export class LoginPage {
 
   constructor(private authSvc: PeliService, private router:Router) { }
-
+  
   
   async onLogin(email,password){
     try {
       const user = await this.authSvc.login(email.value, password.value);
-      if (user) {
+    
+      if (user ) {
         const isVerified = this.authSvc.isEmailVerified(user);
         this.redirectUser(isVerified);
         console.log('verified->', isVerified);
@@ -30,8 +31,9 @@ export class LoginPage {
       const user = await this.authSvc.loginGoogle();
       if (user) {
         const isVerified = this.authSvc.isEmailVerified(user);
-        this.redirectUser(isVerified);
+        this.reedirectUser(isVerified);
         console.log('verified->',isVerified);
+
       }
     } catch (error) {
       console.log('Error->', error);
@@ -40,6 +42,13 @@ export class LoginPage {
   private redirectUser(isVerified: boolean): void {
     if (isVerified) {
       this.router.navigate(['pelis']);
+    } else {
+      this.router.navigate(['verify-email']);
+    }
+  }
+  private reedirectUser(isVerified: boolean): void {
+    if (isVerified) {
+      this.router.navigate(['admin']);
     } else {
       this.router.navigate(['verify-email']);
     }

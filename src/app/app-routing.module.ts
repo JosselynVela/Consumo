@@ -1,6 +1,7 @@
  import { NgModule } from '@angular/core';
 import { PreloadAllModules, RouterModule, Routes } from '@angular/router';
 import { AuthGuard } from './auth.guard';
+import { TodoDetailsPage } from './pages/todo-details/todo-details.page';
 
 const routes: Routes = [
     
@@ -30,6 +31,17 @@ const routes: Routes = [
     loadChildren: () => import('./admin/admin.module').then( m => m.AdminPageModule),
     canActivate:[AuthGuard]
   },
+  
+
+
+  { path: 'details/:id', loadChildren: './pages/todo-details/todo-details.module#TodoDetailsPageModule' },
+  { path: 'details', loadChildren: './pages/todo-details/todo-details.module#TodoDetailsPageModule' },
+
+
+
+
+
+
   {
     path: 'verify-email',
     loadChildren: () => import('./verify-email/verify-email.module').then( m => m.VerifyEmailPageModule)

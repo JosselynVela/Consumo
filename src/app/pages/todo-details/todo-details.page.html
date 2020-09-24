@@ -1,0 +1,21 @@
+<ion-header>
+  <ion-toolbar color="primary">
+    <ion-buttons slot="start">
+      <ion-back-button defaultHref="/admin"></ion-back-button>
+    </ion-buttons>
+    <ion-title>TOPICOS</ion-title>
+  </ion-toolbar>
+</ion-header>
+<ion-content padding>
+  <ion-list lines="full">
+    <ion-item *ngIf="todo">
+      <ion-input required type="text" placeholder="email" [(ngModel)]="todo.email"></ion-input>
+    </ion-item>
+    
+  </ion-list>
+  <ion-button expand="full" (click)="saveTodo()">Guardar</ion-button>
+
+  <ion-button expand="full" color="danger" routerLink="/admin" routerDirection="forward" (click)="onRemovetodo(uid)">
+    <ion-icon name="trash"></ion-icon>
+  </ion-button>
+

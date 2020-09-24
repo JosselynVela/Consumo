@@ -16,5 +16,6 @@ export class PeliDetallePage implements OnInit {
     let id = this.activatedRoute.snapshot.paramMap.get('id');
     this.peliService.getDetails(id).subscribe(result => this.content = result);
   }
+  
 
 }
