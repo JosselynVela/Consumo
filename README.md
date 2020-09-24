@@ -1,7 +1,4 @@
 
-<h1>Consumo</h1>
-
-
 <h1>Uso del GPS</h1>
 <h2>Herramientas para el desarrollo y pruebas<h2>
   <p>Desarrollado en Android 5.0 Lollipop</p>
