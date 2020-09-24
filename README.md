@@ -1,7 +1,7 @@
 
 <h1>Uso del GPS</h1>
-<h2>Herramientas para el desarrollo y pruebas<h2>
   <p>Desarrollado en Android 5.0 Lollipop</p>
+<h2>Herramientas para el desarrollo y pruebas<h2>
 <h3>Android Studio imagen 1<h3>
   <img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/1.png"/>
 <h3>Apower Mirror:</h3>
