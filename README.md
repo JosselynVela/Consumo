@@ -50,17 +50,18 @@ Contiene las actividades que se va a realizar en el aplicativo por usuario.</p>
 <p>Bandera para mostrar si tiene permiso para usar la localización y si está habilitada el GPS</p>
 <img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen15.png"/>
 <p>Mostrar el icono</p>
-<img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen16.png"/>
 <p>variable</p>
+<img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen16.png
 
 
 <p>Include usado para mostrar barra superior de cerrar sesión</p>
-
+<img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen17.png"/>
 <p>Models que contiene las propiedades y métodos de cada usuario.</p>
-
+<img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen18.png"/>
 <p>Finalmente, el provider que es el que contiene los servicios que se ira usando </p>
-
+<img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen19.png"/>
 <p>Adminprovider es para hacer referencia al nodo de la base de datos
+  <img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen20.png"/>
 Authprovider métodos para el login inicio de sesión cierre de sesión
 Confirmar si existe el login
 GeofireProvider para guardas datos de la latitud y longitud
