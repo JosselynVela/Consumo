@@ -8,6 +8,7 @@ import { AngularFireAuth } from '@angular/fire/auth';
 import { switchMap } from 'rxjs/operators';
 import * as firebase from 'firebase';
 import { AngularFirestore, AngularFirestoreDocument } from '@angular/fire/firestore';
+import { Router } from '@angular/router';
 
 @Injectable({
   providedIn: 'root',
@@ -22,7 +23,7 @@ export class PeliService {
   
   public user$: Observable<User>;
 
-  constructor(private http: HttpClient,public afauth:AngularFireAuth,private afs:AngularFirestore ) { 
+  constructor(private http: HttpClient,public afauth:AngularFireAuth,private afs:AngularFirestore, private router:Router ) { 
     this.user$ = this.afauth.authState.pipe(
       switchMap((user) => {
         if (user) {
@@ -72,6 +73,7 @@ export class PeliService {
   }
   async login(email: string, password: string): Promise<User> {
     try {
+
       const { user } = await this.afauth.signInWithEmailAndPassword(email, password);
       this.updateUserData(user);
       return user;
@@ -91,6 +93,7 @@ export class PeliService {
     return user.emailVerified === true ? true : false; 
   }
 
+  
   async logout():Promise<void>{
     try {
       await this.afauth.signOut();
