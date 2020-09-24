@@ -7,8 +7,6 @@
   <p>Desarrollado en Android 5.0 Lollipop</p>
 <h3>Android Studio imagen 1<h3>
   <img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/1.png"/>
-
-
 <h3>Apower Mirror:</h3>
 <img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen2.png"/>
 <h4>Mostrar el teléfono en la pantalla del pc</h4>
@@ -18,14 +16,15 @@
 <h3>Para datos de la localización:</h3>
 <h4>Google Clound Plataform</h4>
 <img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen4.png"/>
+  <h4>Desarrollo del proyecto</h4>
 <h3>Iniciar un proyecto en el Firebase</h3> 
 
 <img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen5.png"/>
 
 <h4>Habilitar la autenticación por correo</h4>
 <img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen6.png"/>
-<p>Luego habilitar la base de datos en tiempo real:
-En el proyecto usare un plugin llamado:
+<p>Luego habilitar la base de datos en tiempo real:</p>
+<p>En el proyecto usare un plugin llamado:
 Android Drawable Importer para importar imágenes o iconos</p>
 <img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen7.png"/>
 
