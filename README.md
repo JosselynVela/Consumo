@@ -23,18 +23,18 @@
 <img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen5.png"/>
 
 <h4>Habilitar la autenticación por correo</h4>
-<img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/imagen6.png"/>
+<img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen6.png"/>
 <p>Luego habilitar la base de datos en tiempo real:
 En el proyecto usare un plugin llamado:
 Android Drawable Importer para importar imágenes o iconos</p>
-<img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/imagen7.png"/>
+<img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen7.png"/>
 
 <p>Estructura del proyecto en Android:
 Activites:
 Contiene las actividades que se va a realizar en el aplicativo por usuario.</p>
-<img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/imagen8.png"/>
+<img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen8.png"/>
 <p>Detalle del mapsActivity:</p>
-<img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/imagen9.png"/>
+<img src="https://github.com/JosselynVela/Consumo/blob/master/imagenes/Imagen9.png"/>
 <p>Variables para mostrar el mapa en la itnerfaz:</p>
 
 
